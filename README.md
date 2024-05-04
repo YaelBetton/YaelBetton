@@ -1,4 +1,4 @@
-# 👋 Salut, Je suis Yaël Betton
+# 👋 Bonjour, Je suis Yaël Betton
 ## Étudiant souhaitant devenir développeur d'applications
 
 - 👀 Je suis à la recherche d'une alternance pour la rentrée 2024
